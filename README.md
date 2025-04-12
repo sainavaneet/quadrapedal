@@ -11,3 +11,7 @@ bash issac-sm.sh
 ```
 
 
+after adding the robot in the issac sim 
+
+
+![robot](assets/image.png)
