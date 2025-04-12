@@ -33,3 +33,17 @@ for this URL
 
 - it took for a while to load the robot like 5 mins
 
+
+# Gazebo 
+
+installation 
+
+
+using this repo helped to bring the robot in the gazebo simulator 
+
+
+```
+git clone https://github.com/anujjain-dev/unitree-go2-ros2.git
+
+```
+
