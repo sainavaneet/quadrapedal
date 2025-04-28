@@ -41,7 +41,7 @@ installation
 
 using this repo helped to bring the robot in the gazebo simulator 
 
-
+added go2
 ```
 git clone https://github.com/anujjain-dev/unitree-go2-ros2.git
 
